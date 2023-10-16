@@ -1,5 +1,5 @@
 # QuizGenerator
-# This project is Done by Atul Kumar Singh😎😋
+# This project is Done by Atul Kumar Singh😎
 
 Project Description:
 
